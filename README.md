@@ -1,10 +1,14 @@
 # Hey, I'm Paul! 👋
+<br/>
+ 
+⚡ Full Stack Developer  <br/>
+⚛ PHP • Javascript • Node.js • React  <br/>
 
-⚡ Full Stack Developer
-⚛ PHP • Javascript • Node.js • React
-
+<br/>
+ 
 # Find me elsewhere 🌎
-🚀 Site (coming soon)
-🖥 [Behance](https://www.behance.net/paulcollas1a47)
-📸 [Dribbble](https://dribbble.com/polcol)
+<br/>
+🚀 Site (coming soon)  <br/>
+🖥 [Behance](https://www.behance.net/paulcollas1a47)  <br/>
+📸 [Dribbble](https://dribbble.com/polcol)  <br/>
 💼 LinkedIn (https://www.linkedin.com/in/paul-collas-5631ab174/)
