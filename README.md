@@ -1,4 +1,4 @@
-# Hey, I'm Paul! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+# Hey, I'm Paul! 👋
 <br/>
  
 ⚡ Full Stack Developer  <br/>
