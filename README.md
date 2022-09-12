@@ -4,9 +4,9 @@
 ⚡ Full Stack Developer  <br/>
 ⚛ PHP • Javascript • Node.js • React  <br/>
 
-
-📚 Teacher for MyDigitalSchool  <br/>
+💡 CEO @Studio_210<br/>
 💻 Work for MomenTech - Commeett<br/>
+📚 Teacher for MyDigitalSchool  <br/>
 
 <br/>
  
