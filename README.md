@@ -6,7 +6,7 @@
 
 💡 CEO @Studio_210<br/>
 💻 Work for MomenTech - Commeett<br/>
-📚 Teacher for MyDigitalSchool  <br/>
+📚 Teacher for MyDigitalSchool & Aden Formation <br/>
 
 <br/>
  
