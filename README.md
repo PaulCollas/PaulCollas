@@ -5,7 +5,7 @@
 ⚛ PHP • Javascript • Node.js • React  <br/>
 
 💡 CEO @Studio_210<br/>
-💻 Work for MomenTech - Commeett<br/>
+💻 Work for Extia - KLX<br/>
 📚 Teacher for MyDigitalSchool & Aden Formation <br/>
 
 <br/>
