@@ -1,11 +1,12 @@
-# Hey, I'm Paul! 👋
+# Hey, I'm Paul! 👋,
+Actually based in Lisbon
 <br/>
  
 ⚡ Full Stack Developer  <br/>
 ⚛ PHP • Javascript • Node.js • React  <br/>
 
 💡 CEO @Studio_210<br/>
-💻 Work for Extia - KLX<br/>
+💻 Work for Extia - KLX Crédit Agricole<br/>
 📚 Teacher for MyDigitalSchool & Aden Formation <br/>
 
 <br/>
