@@ -6,7 +6,7 @@ Actually based in Lisbon
 ⚛ Angular • TS/JS • Node.js • React  <br/>
 
 💡 CEO @Studio_210<br/>
-💻 Work for Crédit Agricole<br/>
+💻 Working for Crédit Agricole<br/>
 📚 Teacher for MyDigitalSchool & Aden Formation <br/>
 
 <br/>
