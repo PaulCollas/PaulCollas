@@ -1,5 +1,5 @@
 # Hey, I'm Paul! 👋,
-Actually based in Lisbon
+Actually based in France
 <br/>
  
 ⚡ Front-End Developer  <br/>
